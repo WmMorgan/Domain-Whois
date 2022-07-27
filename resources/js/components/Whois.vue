@@ -52,7 +52,6 @@ export default {
             const arr = [this.domen, this.domen1, this.domen2]
             this.posts = []
             this.error = []
-            console.log(this.err_message)
 
             for(let el of arr){
             try{
